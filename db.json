@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "userone",
+      "email": "userone@gmail.com",
+      "mobileNumber": ""
+    },
+    {
+      "id": 4,
+      "mobileNumber": ""
+    },
+    {
+      "id": 5,
+      "mobileNumber": ""
+    },
+    {
+      "id": 6,
+      "mobileNumber": ""
+    },
+    {
+      "id": 7,
+      "mobileNumber": ""
+    },
+    {
+      "id": 8,
+      "mobileNumber": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
